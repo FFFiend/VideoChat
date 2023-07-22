@@ -1,0 +1,22 @@
+{
+  "name": "videochat",
+  "version": "1.0.0",
+  "description": "video conferencing app with some ml functionality built in (maybe)",
+  "main": "index.js",
+  "scripts": {
+    "test": "vidtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFFiend/VideoChat.git"
+  },
+  "author": "Owais Zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFFiend/VideoChat/issues"
+  },
+  "homepage": "https://github.com/FFFiend/VideoChat#readme",
+  "dependencies": {
+    "mediasoup": "^3.12.8"
+  }
+}
